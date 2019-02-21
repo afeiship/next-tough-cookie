@@ -1,0 +1,26 @@
+{
+  "name": "next-tough-cookie",
+  "description": "A wrapper for toughCookie",
+  "main": "dist/next-tough-cookie.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/next-tough-cookie",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "build",
+    "gulpfile.js"
+  ]
+}
